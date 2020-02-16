@@ -1,0 +1,55 @@
+Nguyen Son Ha
+hanzhere
+
+Education:
+2016 - 2019: THPT Cam Lo (General education)
+2019 - current: FPT University Campus Da Nang
+
+Projects:
+Pogen
+(Dec 2017)
+Android English-learning application using Firebase Realtime Database
+(3nd prize at Science and Engineering Fair Quang Tri Province 2018)
+Poscan
+(Dec 2018)
+Android Grading application inspired by Zipgrade.
+(1st prize at Science and Engineering Fair Quang Tri Province 2019)
+Tu3sday
+(Jan 2020)
+Puzzle game using React Native, Google Cloud Platform (Firebase, Dialogflow)
+TinderBot
+(Feb 2020)
+Auto login and swipe Tinder. Using AI to indentify type of girl that fit to you.
+AI's model was trained by Teachable Machine.
+
+Experiences
+Web Platform
+Develop Responsive Website using HTML/CSS
+Develop Web Application using React Native, ReactJS framework
+Window Platform
+Developing tools automatic complete simple tasks
+Mobile Platform
+Developing Hybrid application using Javascript (React Native framework)
+Developing Native application using Java (Android Studio framework)
+Design
+Designing minimalist website
+Designing logo for branding
+Designing UI for mobile application
+
+Skills
+Languages
+English B1
+Programming languages:
+Python, C, Java, Javascript
+Design & UI/UX
+HTML, CSS
+Platforms
+Google Cloud Platform (Maps, Firabase, Dialogflow, Tensorflow)
+Tools, frameworks
+Tools: Git, Visual Studio Code, npm, Adobe Photoshop, Adobe Illustrator, Adobe Premiere
+Frameworks: React Native, ReactJs, Android Studio
+Soft skills:
+Self-working
+High self-study ability
+Interesting in new technologies, new things
+Type of personality: Advocates INFJ-T (base on 16personalities)

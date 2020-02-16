@@ -1,0 +1,52 @@
+Nguyễn Sơn Hà
+hanzhere
+
+Học vấn
+2016 - 2019: THPT Cam Lộ (Giáo dục phổ thông)
+2019 - nay: Đại học FPT Đà Nẵng
+Dự án
+Pogen
+(12.2017)
+Ứng dụng học tiếng anh trên thiết bị Android, sử dụng Firebase.
+(Đạt giải 3 tại cuộc thi nghiên cứu học tỉnh Quảng Trị năm 2018)
+Poscan
+(1.2019)
+Ứng dụng chấm trắc nghiệm lấy cảm hứng từ ứng dụng Zipgrade.
+(Đạt giải 1 tại cuộc thi nghiên cứu học tỉnh Quảng Trị năm 2019)
+Tu3sday
+(1.2020)
+Game giải đố sử dụng React Native, Google Cloud Platform (Firebase, Dialogflow)
+TinderBot
+(2.2020)
+Tự động đăng nhập và lướt Tinder. Sử dụng AI để xác định đối tượng phù hợp.
+Model AI được train bởi Teachable Machine
+Kinh nghiệm
+Nền tảng Web
+Phát triển Responsive Website sử dụng HTML/CSS
+Phát triển Web Application sử dụng React Native, ReactJS
+Nền tảng Window
+Phát triển công cụ tự động hoàn thành những công việc đơn giản
+Nền tảng di động
+Phát triển ứng dụng Hybrid bằng ngôn ngữ Javascript (React Native Framework)
+Phát triển ứng dụng Native bằng ngôn ngữ Java (Android Studio Framework)
+Thiết kế
+Thiết kế Website phong cách tối giản
+Thiết kế logo
+Thiết kế UI cho ứng dụng di động
+Kĩ năng
+Ngôn ngữ
+Tiếng Anh
+Ngôn ngữ lập trình
+Python, C, Java, Javascript
+Thiết kế & UI/UX
+HTML, CSS
+Platform
+Google Cloud Platform (Maps, Firabase, Dialogflow, Tensorflow)
+Công cụ, frameworks
+Công cụ: Git, Visual Studio Code, npm, Adobe Photoshop, Adobe Illustrator, Adobe Premiere
+Frameworks: React Native, ReactJs, Android Studio
+Kỹ năng mềm
+Làm việc độc lập
+Khả năng tự học cao
+Thích cái mới
+Kiểu người: Advocates INFJ-T (theo 16personalities)
